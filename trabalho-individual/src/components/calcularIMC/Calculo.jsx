@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Calculo({ peso, altura }) {
-
   function CalcularIMC(peso, altura) {
     const imc = peso / (altura * altura);
     return imc;

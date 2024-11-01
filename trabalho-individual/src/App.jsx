@@ -6,11 +6,11 @@ export default function App() {
   return (
     <div>
       <header>
-        <h1 className="cdt">&lt;Calcular IMC</h1>
+        <h1>&lt;Calcular IMC</h1>
       </header>
-      <Inserir className="box"/>
+      <Inserir className="box" />
       <footer>
-        <h1 className="cdt">/Desenvolvido por: Patrick&gt;</h1>
+        <h1>/Desenvolvido por: Patrick&gt;</h1>
       </footer>
     </div>
   );
